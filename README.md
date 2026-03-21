@@ -13,7 +13,7 @@
 </h4>
 
 <p align="center">
-  <a href="[https://stud-wise-connect.lovable.app]" target="_blank" style="
+<a href="https://stud-wise-connect.lovable.app/" target="_blank" style="
       display: inline-block;
       transition: transform 0.25s ease, box-shadow 0.25s ease;
   ">
